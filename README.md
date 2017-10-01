@@ -9,3 +9,6 @@ Editing in master branch.
 
 Edited in branch develop.
 
+
+Editing in bash clone.
+
