@@ -16,3 +16,7 @@ Editing in bash clone.
 
 Editing in github.com
 
+Editing in bash branch
+
+Editing in master branch (bash).
+
